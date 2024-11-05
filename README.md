@@ -44,4 +44,21 @@ To get the Transaction Category
 ```
 =IF(F2<=5,"Low",IF(F2<=10,"Medium","High"))
 ```
-T    
+Total Quantity Sold
+```
+=SUM(F2:F9922)
+```
+Average Quantity Sold
+```
+=AVERAGE(F2:F9922)
+```
+Total Revenue Or Total Sales
+```
+=SUM(H2:H9922)
+```
+Average Revenue
+```
+=AVERAGE(H2:H9922)
+```
+
+``````
