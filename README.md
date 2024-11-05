@@ -35,4 +35,13 @@ It pays attention to the product with the highest performance and also the regio
   The pivot table was used to summerise the report in excel, some pivot chats were also used.
   The were differen visuals generated on Power BI that gave an overview of the sales pattern as it was on excel. Power BI visuals also provided a detailed trend in the products performances as it relates to different regions.
 ### DATA ANALYSIS
-    
+The following analysis was done on excel using the excel formulas and functions
+- To calculate Revenue for each product (Revenu = Quantity*Unit Price)
+```
+=F2*G2
+```
+To get the Transaction Category
+```
+=IF(F2<=5,"Low",IF(F2<=10,"Medium","High"))
+```
+T    
