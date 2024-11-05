@@ -34,5 +34,5 @@ It pays attention to the product with the highest performance and also the regio
   On the three analysis tool used for this project (excel, SQL and Power BI), thorugh data exploration was done, some new columns were added in excel, for example the 'Revenue' column, some other columns were added in SQL with the help of sql quesries and also in power BI, i added spme conditional column and also measures.
   The pivot table was used to summerise the report in excel, some pivot chats were also used.
   The were differen visuals generated on Power BI that gave an overview of the sales pattern as it was on excel. Power BI visuals also provided a detailed trend in the products performances as it relates to different regions.
-### 
+### DATA ANALYSIS
     
