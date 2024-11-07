@@ -147,7 +147,14 @@ Group by Product Having Sum(Quantity)= 0
 ![Screenshot 2024-11-07 103521](https://github.com/user-attachments/assets/b653c6b6-c21f-4053-9893-3cfa35390747)
 
 ##### Analysis on Power BI
-some of the following analysis were carried out on Power BI with DAX function
+Some of the following analysis were carried out on Power BI with DAX function
+- Addition of measure
+```
+Count of CustomerID = count('Sales Data'[Customer Id])
+```
+##### Below are the visuals on Power BI
+![Screenshot 2024-11-06 031939](https://github.com/user-attachments/assets/6db9755f-c07e-4b5d-8aaa-feb8a46d5759)
+![Screenshot 2024-11-06 032004](https://github.com/user-attachments/assets/2509a938-96e7-409d-9108-9c81ea3cc982)
 
 
 
