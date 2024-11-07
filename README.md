@@ -1,6 +1,8 @@
 # INCUBATOR-HUB-CAPSTONE-PROJECT
 A detailed documentation of the report of capstone sales dataset
 ## Analysis of Capstone Project Sales Data
+[PROJECT OVERVIEW](project_preview)
+
 ### PROJECT OVERVIEW
 This project has to do with the analysis of the product performance of the capstone company as it relates with some important factor one of which is the location. 
 It pays attention to the product with the highest performance and also the region with the highest performance.
