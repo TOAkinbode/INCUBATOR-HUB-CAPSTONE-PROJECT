@@ -2,11 +2,17 @@
 A detailed documentation of the report of capstone sales dataset
 ## Analysis of Capstone Project Sales Data
 [PROJECT OVERVIEW](project_overview)
+
 [DATA SOURCES](data_sources)
+
 [Data Cleaning and Preparations](Data_Cleaning_and_Preparations)
+
 [DATA EXPLORATORY](data_exploratory)
+
 [DATA ANALYSIS](data_analysis)
+
 [EXCEL REPORTS (PIVOT TABLES AND PIVOT CHARTS)](excel_reports)
+
 ### PROJECT OVERVIEW
 This project has to do with the analysis of the product performance of the capstone company as it relates with some important factor one of which is the location. 
 It pays attention to the product with the highest performance and also the region with the highest performance.
