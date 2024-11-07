@@ -138,7 +138,7 @@ From [dbo].[SALES_DATA_]
 Where Month(OrderDate) between 10 and 12
 Group by Product Having Sum(Quantity)= 0
 ```
-###### Below are some of the results of the query
+###### Below are some of the results of these queries
 ![Screenshot 2024-11-07 103217](https://github.com/user-attachments/assets/40281d1a-ba27-477c-8712-959afd7c4742)
 ![Screenshot 2024-11-07 103246](https://github.com/user-attachments/assets/727a9e6b-5596-451e-bc22-be3a7d5e754d)
 ![Screenshot 2024-11-07 103358](https://github.com/user-attachments/assets/f7cba088-2c66-4a74-ac0d-4db55055bb63)
