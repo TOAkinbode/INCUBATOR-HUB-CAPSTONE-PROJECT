@@ -146,7 +146,7 @@ Group by Product Having Sum(Quantity)= 0
 ![Screenshot 2024-11-07 103455](https://github.com/user-attachments/assets/de4cfc5f-ffe0-4aa4-aeb3-4f485b836ed2)
 ![Screenshot 2024-11-07 103521](https://github.com/user-attachments/assets/b653c6b6-c21f-4053-9893-3cfa35390747)
 
-
+##### Analysis on Power BI
 
 
 
