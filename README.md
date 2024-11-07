@@ -131,8 +131,20 @@ From [dbo].[SALES_DATA_]
 Group by Region
 Order by Percentage_of_Total_Sales desc
 ```
-
-
+- Products with no sales in the last quarter.
+```
+Select Product,Sum(Quantity) as Nil_Sales
+From [dbo].[SALES_DATA_]
+Where Month(OrderDate) between 10 and 12
+Group by Product Having Sum(Quantity)= 0
+```
+###### Below are some of the results of the query
+![Screenshot 2024-11-07 103217](https://github.com/user-attachments/assets/40281d1a-ba27-477c-8712-959afd7c4742)
+![Screenshot 2024-11-07 103246](https://github.com/user-attachments/assets/727a9e6b-5596-451e-bc22-be3a7d5e754d)
+![Screenshot 2024-11-07 103358](https://github.com/user-attachments/assets/f7cba088-2c66-4a74-ac0d-4db55055bb63)
+![Screenshot 2024-11-07 103418](https://github.com/user-attachments/assets/7cadd5e5-c63f-4318-92e1-4fe3c4b9cfa1)
+![Screenshot 2024-11-07 103455](https://github.com/user-attachments/assets/de4cfc5f-ffe0-4aa4-aeb3-4f485b836ed2)
+![Screenshot 2024-11-07 103521](https://github.com/user-attachments/assets/b653c6b6-c21f-4053-9893-3cfa35390747)
 
 
 
