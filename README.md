@@ -236,7 +236,13 @@ Shoes generated the highest Revenue of 613,380 with 14,402 quantities sold, foll
 
 The South generated the highest Revenue with a Revenue of 927,820 while the West generated the Revenue of 300,345.
 
-The South generated an average of 374.1 Revenue and the lowest average 
+The South generated an average of 374.1 which is the highest and the west generated the lowest average of 121.3.
+
+Shoes are the second highest performing product overall and it is most prominent in the South with 68.95% of the overall total Revenue for shoes in the four regions.
+
+There was no sales recorded for shoes in the North
+
+Hat is the highest performing product overall and its sales was the highest in the East with 56.32% of the total quantity sold.
 
 
 # CONCLUSION
