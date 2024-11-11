@@ -230,6 +230,13 @@ Count of CustomerID = count('Sales Data'[Customer Id])
 ![Screenshot 2024-11-11 212636](https://github.com/user-attachments/assets/b135470e-432d-4b81-80e9-7bbb628b813c)
 
 # INFERENCE
+Among the six products analysed, the highest performing product is the Hat with 15,929 quantities sold, followed by shoes with 14,402 quantities sold. On the other hand, the product with the least performance is the Jacket 5,452 quantities sold.
+
+Shoes generated the highest Revenue of 613,380 with 14,402 quantities sold, followed by shirt with a Revenue of 485,600 with 12,388 quantities sold and the product with the least Revenue is the Socks with 180,785 quantities sold.
+
+The South generated the highest Revenue with a Revenue of 927,820 while the West generated the Revenue of 300,345.
+
+The South generated an average of 374.1 Revenue and the lowest average 
 
 
 # CONCLUSION
