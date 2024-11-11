@@ -226,6 +226,9 @@ Count of CustomerID = count('Sales Data'[Customer Id])
 
 ![Screenshot 2024-11-06 032004](https://github.com/user-attachments/assets/2509a938-96e7-409d-9108-9c81ea3cc982)
 
+
+![Screenshot 2024-11-11 212636](https://github.com/user-attachments/assets/b135470e-432d-4b81-80e9-7bbb628b813c)
+
 # INFERENCE
 
 
