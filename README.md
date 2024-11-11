@@ -244,10 +244,17 @@ There was no sales recorded for shoes in the North
 
 Hat is the highest performing product overall and its sales was the highest in the East with 56.32% of the total quantity sold.
 
+Shoes have no sales at all in the North whereas it has the  highest sales in the South.
+
+Jacket has no sales in the South and in the West, same as shirt.
+
+Socks has no sales at all in the North and the East, the same thing goes for gloves.
+
+No product has sales in all four regions. only Shoes and Hat have sales in three regions.
 
 # CONCLUSION
 
-
+It can be concluded from this analysis that the price of a product as well as the Region affects the performance of the product. The Hat could get the highest quantity sild in the East (1) because the price of Hat in the East is just #7 and (2) the Eastern people are trditionally people who wears Hat as an outfit, an average person in the East would have at least two Hats, both male and feamle, young and old use Hat. The West is another Region where Hat sold very well, but the price qwas #50,this probably makes it less performing as it was in the East and also
 
 # RECOMENDATION
 
