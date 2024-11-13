@@ -259,6 +259,6 @@ It can be concluded from this analysis that the price of a product as well as th
 # RECOMENDATION
 The company should leverage on the custom and the traditional qualities of a particular Region in the supply of products to the region, the West for example would have perform better with if head gear and caps were supplied alongside Hats, if sandals and snikers were supplied along side shoes to the west, the Revenue generated in the West will be improved.
 
-The supply of sandals or a different design of foot wear should be consedered for the North.
+The supply of sandals or a different design of foot wear should be considered for the North.
 
 
