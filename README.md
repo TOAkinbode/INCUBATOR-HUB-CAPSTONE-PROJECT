@@ -230,41 +230,41 @@ Count of CustomerID = count('Sales Data'[Customer Id])
 ![Screenshot 2024-11-11 212636](https://github.com/user-attachments/assets/b135470e-432d-4b81-80e9-7bbb628b813c)
 
 # INFERENCE
-Among the six products analysed, the highest performing product is the Hat with 15,929 quantities sold, followed by shoes with 14,402 quantities sold. On the other hand, the product with the least performance is the Jacket 5,452 quantities sold.
+- Among the six products analysed, the highest performing product is the Hat with 15,929 quantities sold, followed by shoes with 14,402 quantities sold. On the other hand, the product with the least performance is the Jacket 5,452 quantities sold.
 
-Shoes generated the highest Revenue of 613,380 with 14,402 quantities sold, followed by shirt with a Revenue of 485,600 with 12,388 quantities sold and the product with the least Revenue is the Socks with 180,785 quantities sold.
+- Shoes generated the highest Revenue of 613,380 with 14,402 quantities sold, followed by shirt with a Revenue of 485,600 with 12,388 quantities sold and the product with the least Revenue is the Socks with 180,785 quantities sold.
 
-The South generated the highest Revenue with a Revenue of 927,820 while the West generated the Revenue of 300,345.
+- The South generated the highest Revenue with a Revenue of 927,820 while the West generated the Revenue of 300,345.
 
-The South generated an average of 374.1 which is the highest and the west generated the lowest average of 121.3.
+- The South generated an average of 374.1 which is the highest and the west generated the lowest average of 121.3.
 
-Shoes are the second highest performing product overall and it is most prominent in the South with 68.95% of the overall total Revenue for shoes in the four regions.
+- Shoes are the second highest performing product overall and it is most prominent in the South with 68.95% of the overall total Revenue for shoes in the four regions.
 
-There was no sales recorded for shoes in the North
+- There was no sales recorded for shoes in the North
 
-Hat is the highest performing product overall and its sales was the highest in the East with 56.32% of the total quantity sold.
+- Hat is the highest performing product overall and its sales was the highest in the East with 56.32% of the total quantity sold.
 
-Shoes have no sales at all in the North whereas it has the  highest sales in the South.
+- Shoes have no sales at all in the North whereas it has the  highest sales in the South.
 
-Jacket has no sales in the South and in the West, same as shirt.
+- Jacket has no sales in the South and in the West, same as shirt.
 
-Socks has no sales at all in the North and the East, the same thing goes for gloves.
+- Socks has no sales at all in the North and the East, the same thing goes for gloves.
 
-No product has sales in all four regions. only Shoes and Hat have sales in three regions.
+- No product has sales in all four regions. only Shoes and Hat have sales in three regions.
 
 # CONCLUSION
 
-It can be concluded from this analysis that the price of a product as well as the Region affects the performance of the product. 
+- It can be concluded from this analysis that the price of a product as well as the Region affects the performance of the product. 
 
-The Hat could get the highest quantity sold in the East 
+- The Hat could get the highest quantity sold in the East 
 
 (1) because the price of Hat in the East is just #7 and 
 
 (2) the Eastern people are trditionally people who wears Hat as an outfit, an average person in the East would have at least two Hats, both male and feamle, young and old use Hat. The West is another Region where Hat sold very well, but the price qwas #50,this probably makes it less performing as it was in the East and also Hat is not a traditional attire in the West.
 
 # RECOMENDATION
-The company should leverage on the custom and the traditional qualities of a particular Region in the supply of products to the region, the West for example would have perform better with if head gear and caps were supplied alongside Hats, if sandals and snikers were supplied along side shoes to the west, the Revenue generated in the West will be improved.
+- The company should leverage on the custom and the traditional qualities of a particular Region in the supply of products to the region, the West for example would have perform better with if head gear and caps were supplied alongside Hats, if sandals and snikers were supplied along side shoes to the west, the Revenue generated in the West will be improved.
 
-The supply of sandals or a different design of foot wear should be considered for the North.
+- The supply of sandals or a different design of foot wear should be considered for the North.
 
 
