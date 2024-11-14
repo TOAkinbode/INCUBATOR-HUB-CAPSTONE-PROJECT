@@ -254,7 +254,13 @@ No product has sales in all four regions. only Shoes and Hat have sales in three
 
 # CONCLUSION
 
-It can be concluded from this analysis that the price of a product as well as the Region affects the performance of the product. The Hat could get the highest quantity sild in the East (1) because the price of Hat in the East is just #7 and (2) the Eastern people are trditionally people who wears Hat as an outfit, an average person in the East would have at least two Hats, both male and feamle, young and old use Hat. The West is another Region where Hat sold very well, but the price qwas #50,this probably makes it less performing as it was in the East and also Hat is not a traditional attire in the West.
+It can be concluded from this analysis that the price of a product as well as the Region affects the performance of the product. 
+
+The Hat could get the highest quantity sold in the East 
+
+(1) because the price of Hat in the East is just #7 and 
+
+(2) the Eastern people are trditionally people who wears Hat as an outfit, an average person in the East would have at least two Hats, both male and feamle, young and old use Hat. The West is another Region where Hat sold very well, but the price qwas #50,this probably makes it less performing as it was in the East and also Hat is not a traditional attire in the West.
 
 # RECOMENDATION
 The company should leverage on the custom and the traditional qualities of a particular Region in the supply of products to the region, the West for example would have perform better with if head gear and caps were supplied alongside Hats, if sandals and snikers were supplied along side shoes to the west, the Revenue generated in the West will be improved.
