@@ -39,7 +39,7 @@ It pays attention to the product with the highest performance and also the regio
 ##### Microsoft Excel was used to perform the following
 - for Data Cleaning; in this phase, duplicates were removed, and new columns were added, also there are some data types that needed to be changed, these was also part of the task performed in this section.
 - for Analysis; after ensuring the data was clean, a good number of analysis was carried out on the clean data. some of the formulas used with be updated in this report.
-- Visualization; the pivot table is a very beautiful visualization tool in excel, this was used to ptesent the summary of the result.
+- Visualization; the pivot table is a very beautiful visualization tool in excel, this was used to present the summary of the result.
     Next in line is the Structured Query Language.
     
 ##### SQL - (Structured Query Language), This model was used to write queries for all necessary reports needed, but befor writing the query, i imported the clean data from excel into my SQL work station. Here are the steps involved in importing the data.
