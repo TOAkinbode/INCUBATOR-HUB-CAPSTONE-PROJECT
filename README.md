@@ -42,7 +42,7 @@ It pays attention to the product with the highest performance and also the regio
 - Visualization; the pivot table is a very beautiful visualization tool in excel, this was used to present the summary of the result.
     Next in line is the Structured Query Language.
     
-##### SQL - (Structured Query Language), This model was used to write queries for all necessary reports needed, but befor writing the query, i imported the clean data from excel into my SQL work station. Here are the steps involved in importing the data.
+##### SQL - (Structured Query Language), This model was used to write queries for all necessary reports needed, but before writing the query, I imported the clean data from excel into my SQL work station. Here are the steps involved in importing the data.
 - convert the excel 'xlsl' file to 'csv'(comma delimited) file
 - open the SQL work station
 - create a new data base or use an existing one
